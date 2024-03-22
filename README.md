@@ -13,3 +13,5 @@ This repository contains code for an Employee Churn Prediction interface built u
 - Salary (Medium/Low)
 
 Users can interact with the interface by adjusting the sliders, checkboxes, and dropdown menu to input employee details. The interface then displays the prediction for employee churn based on the provided inputs.
+
+##This project is hosted in huggingface , link to space https://huggingface.co/spaces/eldhos/employee_churn_prediction
